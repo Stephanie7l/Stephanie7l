@@ -1,16 +1,65 @@
-### Hi there 👋
+<!-- MARGEM SUPERIOR -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=header"/>
 
-<!--
-**Stephanie7l/Stephanie7l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- CONTADOR DE VISITAS -->
+<div align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Stephanie7l&style=for-the-badge"/>
+</div>
 
-Here are some ideas to get you started:
+<!-- CABEÇALHO -->
+<div align="center"> 
+ <br>
+ <br>
+ <img height="180em" src="https://user-images.githubusercontent.com/100887395/229015495-70955d35-ba7a-4f8d-a796-ee997818be1d.gif"/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img height="180em" img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+ </picture>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi! My name is Stéphanie and it's a pleasure to receive your visit in my profile!
+
+<!-- DESCRIÇÃO -->
+🎓 I’m a Systems Engineering student at the Federal University of Minas Gerais (UFMG).
+<br>
+🔭 I’m currently a Quality and Product Behavior intern at IVECO.
+<br>
+👩‍💻 I currently develop software in C and C++ and I'm learning Python.
+<br>
+👯 I’m looking to collaborate on with on the developer community on recurrent problems.
+<br>
+⚡ Fun facts: I love to do sports, eat well, enjoy nature, and care for animals. I currently run, cycle, and swim and I have four pets: two dogs, a cat, and a mare.
+<br>
+💬 Feel free to contact me, either to have a simple chat or to discuss something about software development.
+
+<!-- CONTATO -->
+<div align="center">
+ <br>
+  <a href = "mailto:tete.179@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/st%C3%A9phanie-pereira-barbosa-369463208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+<!-- ESTATÍSTICAS DO PERFIL -->
+<div align="center">
+ <br>
+ <br>
+  <a href="https://github.com/Stephanie7l">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Stephanie7l&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&line_height=20"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie7l&theme=transparent&bg_color=00000000&border_radius=1.5"/>
+</div>
+  
+<!-- COBRINHA DOS COMMITS --> 
+![Snake animation](https://github.com/Stephanie7l/Stephanie7l/blob/output/github-contribution-grid-snake.svg)
+
+<!-- MARGEM INFERIOR -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer"/>
+ 
+ 
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&bg_color=0d1117&color=4682B4&line=00FF00&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<!-- CONTADOR DE VISITAS 
+<div align="center">
+  <br><p align="center"><b>VISITORS:  </b> 
+  <img align="center" src="https://profile-counter.glitch.me/{Stephanie7l}/count.svg"/></p> 
+</div>-->
+

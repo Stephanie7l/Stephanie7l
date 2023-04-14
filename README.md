@@ -50,23 +50,15 @@
 </div>
 
 <!-- GRÁFICO -->
+<div align="center">
+ <br>
+ <br>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=github-dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=minimal">
-  <src="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img height="350" src="https://github.com/ashutosh00710/github-readme-activity-graph">
  </picture>
+</div>
  
 <!-- MARGEM INFERIOR -->
-   <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer"/>
- 
- 
-<!-- COBRINHA DOS COMMITS
-![Snake animation](https://github.com/Stephanie7l/Stephanie7l/blob/output/github-contribution-grid-snake.svg)-->
-<!-- CONTADOR DE VISITAS 
-<div align="center">
-  <br><p align="center"><b>VISITORS:  </b> 
-  <img align="center" src="https://profile-counter.glitch.me/{Stephanie7l}/count.svg"/></p> 
-</div>-->
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-

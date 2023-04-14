@@ -52,7 +52,6 @@
 <!-- GRÁFICO -->
 <div align="center">
  <br>
- <br>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=github-dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=minimal">

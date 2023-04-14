@@ -55,7 +55,7 @@
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=github-dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=minimal">
-  <img height="350" src="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img height="300" src="https://github.com/ashutosh00710/github-readme-activity-graph">
  </picture>
 </div>
  

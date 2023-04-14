@@ -48,18 +48,25 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Stephanie7l&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&line_height=20"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie7l&theme=transparent&bg_color=00000000&border_radius=1.5"/>
 </div>
-  
-<!-- COBRINHA DOS COMMITS --> 
-![Snake animation](https://github.com/Stephanie7l/Stephanie7l/blob/output/github-contribution-grid-snake.svg)
 
+<!-- GRÁFICO -->
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=minimal">
+  <src="https://github.com/ashutosh00710/github-readme-activity-graph">
+ </picture>
+ 
 <!-- MARGEM INFERIOR -->
+   <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer"/>
  
  
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&bg_color=0d1117&color=4682B4&line=00FF00&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<!-- COBRINHA DOS COMMITS
+![Snake animation](https://github.com/Stephanie7l/Stephanie7l/blob/output/github-contribution-grid-snake.svg)-->
 <!-- CONTADOR DE VISITAS 
 <div align="center">
   <br><p align="center"><b>VISITORS:  </b> 
   <img align="center" src="https://profile-counter.glitch.me/{Stephanie7l}/count.svg"/></p> 
 </div>-->
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 

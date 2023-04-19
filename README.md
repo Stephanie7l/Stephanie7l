@@ -46,7 +46,7 @@
  <br>
   <a href="https://github.com/Stephanie7l">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Stephanie7l&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&line_height=20"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie7l&hide=vhdl,c++&theme=transparent&bg_color=00000000&border_radius=1.5"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie7l&hide=VHDL,c++&theme=transparent&bg_color=00000000&border_radius=1.5"/>
 </div>
 
 <!-- GRÁFICO -->

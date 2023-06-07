@@ -38,10 +38,8 @@
  <br>
   <a href = "mailto:tete.179@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "http://lattes.cnpq.br/6352301121939135"><img src="https://img.shields.io/badge/-Lattes-blue?style=for-the-badge&logo=GitBook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/st%C3%A9phanie-pereira-barbosa-369463208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/st%C3%A9phanie-pereira-barbosa-369463208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
 
 <!-- ESTATÍSTICAS DO PERFIL -->
 <div align="center">
@@ -56,8 +54,8 @@
 <div align="center">
  <br>
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Stephanie7l&theme=minimal">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Stephanie7l&theme=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Stephanie7l&theme=minimal">
   <img height="300" src="https://github.com/ashutosh00710/github-readme-activity-graph">
  </picture>
 </div>

@@ -50,15 +50,15 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie7l&theme=transparent&hide=tcl,makefile,batchfile&layout=compact&bg_color=00000000&border_radius=4"/>
 </div>
 
-<!-- GRÁFICO 
+<!-- GRÁFICO -->
 <div align="center">
  <br>
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Stephanie7l&custom_title=This%20is%20a%20title&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Stephanie7l&theme=dracula">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Stephanie7l&theme=minimal">
   <img height="300" src="https://github.com/ashutosh00710/github-readme-activity-graph">
  </picture>
-</div>-->
+</div>
  
 <!-- MARGEM INFERIOR -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer"/>

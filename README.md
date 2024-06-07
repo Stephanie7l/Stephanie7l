@@ -23,13 +23,13 @@
 <!-- DESCRIÇÃO -->
 🎓 I’m a Systems Engineering student at the Federal University of Minas Gerais (UFMG).
 <br>
-🔭 I’m currently a Quality and Product Behavior intern at IVECO.
-<br>
-👩‍💻 I currently develop software in C and C++ and I'm learning Python.
+<!-- 🔭 I’m currently a Quality and Product Behavior intern at IVECO.
+<br> -->
+👩‍💻 I currently develop software in C and C++ and I'm learning Javascript, HTML, CSS and Python.
 <br>
 👯 I’m looking to collaborate on with on the developer community on recurrent problems.
 <br>
-⚡ Fun facts: I love to do sports, eat well, enjoy nature, and care for animals. I currently run, cycle, and swim and I have four pets: two dogs, a cat, and a mare.
+⚡ Fun facts: I love to do sports, eat well, enjoy nature, and care for animals. I currently run, cycle, gym and swim and I have four pets: two dogs, a cat, and a mare.
 <br>
 💬 Feel free to contact me, either to have a simple chat or to discuss something about software development.
 

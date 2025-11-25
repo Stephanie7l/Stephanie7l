@@ -23,9 +23,9 @@
 <!-- DESCRIÇÃO -->
 🎓 I’m a Systems Engineering student at the Federal University of Minas Gerais (UFMG).
 <br>
-<!-- 🔭 I’m currently a Quality and Product Behavior intern at IVECO.
-<br> -->
-👩‍💻 I currently develop software in C and C++ and I'm learning Javascript, HTML, CSS and Python.
+🔭 I currently work as a parliamentary advisor in the City Council of Sete Lagoas.
+<br>
+👩‍💻 I currently develop software in C, C++,Javascript, HTML, CSS and Python.
 <br>
 👯 I’m looking to collaborate on with on the developer community on recurrent problems.
 <br>
@@ -46,7 +46,7 @@
  <br>
  <br>
   <a href="https://github.com/Stephanie7l">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stephanie7l&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&line_height=20"/>
+  <img src="https://github-readme-stats-denvercoder1.vercel.app/api?username=Stephanie7l&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=00000000&line_height=20"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanie7l&theme=transparent&hide=tcl,makefile,batchfile&layout=compact&bg_color=00000000&border_radius=4"/>
 </div>
 
